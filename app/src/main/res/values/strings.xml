@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Loaive</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password2">Password Again</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_email">Not a valid email</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="create_one">Create one!</string>
+    <string name="no_account">No account?</string>
+    <string name="waitchat">Waitting For Chatting!!</string>
+    <string name="chat_dismissed">Chat Dimissed!!</string>
+    <string name="password_unmatched">Passwords do not match</string>
+    <string name="chat_with">Chat with:</string>
+    <string name="enter_room">has entered the room</string>
+    <string name="leave_room">has leaved the room</string>
+</resources>
